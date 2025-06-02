@@ -1,5 +1,5 @@
 # Posto-Vai-na-Fé
-Repositório destinado a simulação de um posto de gasolina.
+Repositório destinado a simulação de um posto de gasolina com conveniência e nota fiscal.
 
 Este é um projeto em Java que simula o funcionamento de um posto de combustível com bombas, funcionários, uma loja de conveniência e geração de nota fiscal detalhada. Ideal para praticar conceitos de Programação Orientada a Objetos (POO) como:
 

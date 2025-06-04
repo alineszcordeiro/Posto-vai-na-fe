@@ -78,17 +78,19 @@ POSTO E CONVENIÊNCIA VAI NA FÉ:
 
 ---
 
+📌 Observações
+- O sistema aceita entrada de veículos indefinidamente até o usuário digitar 0
+- O reabastecimento do posto é automático e ocorre após cada 100 litros acumulados
+- Os preços de combustível e produtos podem ser alterados diretamente no código
+
+---
+
 **Alunos:**  
 Aline de Souza Cordeiro  
 Gabrieli Diniz Cândido dos Santos  
 Kathellyn Santos de Oliveira  
 Vagner José Conceição Silva  
 
-Professor: Luis Roberto Guerreiro
+**Professor:** Luis Roberto Guerreiro
 
-Disciplina: ALP2
-
-📌 Observações
-- O sistema aceita entrada de veículos indefinidamente até o usuário digitar 0
-- O reabastecimento do posto é automático e ocorre após cada 100 litros acumulados
-- Os preços de combustível e produtos podem ser alterados diretamente no código
+**Disciplina:** ALP2

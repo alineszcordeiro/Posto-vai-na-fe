@@ -78,6 +78,12 @@ POSTO E CONVENIÊNCIA VAI NA FÉ:
 
 ---
 
+**Alunos:**  
+Aline de Souza Cordeiro  
+Gabrieli Diniz Cândido dos Santos  
+Kathellyn Santos de Oliveira  
+Vagner José Conceição Silva  
+
 Professor: Luis Roberto Guerreiro
 
 Disciplina: ALP2
